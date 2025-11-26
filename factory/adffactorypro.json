@@ -1,0 +1,9 @@
+{
+	"name": "adffactorypro",
+	"location": "malaysiawest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78b64e1d-0e04-406d-a90e-1bfd79d1668a",
+		"tenantId": "221c671e-c145-46ea-9751-f2ee81cbfc68"
+	}
+}
